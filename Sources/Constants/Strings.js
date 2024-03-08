@@ -1,0 +1,41 @@
+const Strings = {
+  Login: 'Login',
+  EnterBarcodeCode: 'Enter Barcode code',
+  EnterBarcodeCodeHere: 'Enter Barcode code Here...',
+  Submit: 'Submit',
+  SubmitCode: 'Submit Code',
+  Or: 'Or',
+  ScanBarCode: 'Scan Barcode',
+  ScanBarCodeDescription:
+    'Place barcode inside the frame to scan please avoid shake to get results quickly.',
+  Username: 'Username',
+  Email: 'Email',
+  Enteryouremail: 'Enter your email',
+  Password: 'Password',
+  EnteryourPassword: 'Enter your Password',
+  BarcodeID: 'Barcode ID',
+  UploadPhoto: 'Upload Photo',
+  UploadPhotoDescription:
+    'Upload Your barcode photo for scanning please Make sure photo is clean.',
+  Upload: 'Upload',
+  PhotoSuccessfullyUploaded: 'Photo Successfully Uploaded',
+  BackToHome: 'Back To Home',
+  NoCameraPermission: 'Please give camera permission to use device camera.',
+  RequestPermission: 'Request Permission',
+  Google: 'Google',
+  Facebook: 'Facebook',
+  BarcodeScanner: 'Barcode Scanner',
+  BarcodeScannerDescription:
+    'You have 2 options for barcode apply and scan barcode.',
+  PreviewUploadImages: 'Preview Upload Images',
+  TakePhoto: 'Take Photo',
+  ScanTheCode: 'Scan The Code',
+  Rememberme: 'Remember me',
+  ForgotPassword: 'Forgot Password ?',
+  Orcontinuewith: 'Or continue with',
+  DontHaveAccount: `Don't have account? `,
+  Createnow: 'Create now',
+  Pleaseselectimage: 'Please select image.',
+};
+
+export default Strings;
